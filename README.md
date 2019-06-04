@@ -4,6 +4,10 @@
 # FXChromium 
 There is a library called [JxBrowser](https://jxbrowser-support.teamdev.com/) which has taken [Chromium](https://en.wikipedia.org/wiki/Chromium_(web_browser)) , linked it with Java and created something amazing .
 
+### Warning
+
+I have made also a web-browser entirely in JavaFX , [press here](https://github.com/goxr3plus/JavaFX-Web-Browser)
+
 ## What is this repo ?
 
 Based on JxBrowser i have created a completely :
