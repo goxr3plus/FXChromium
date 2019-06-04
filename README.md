@@ -6,7 +6,7 @@ There is a library called [JxBrowser](https://jxbrowser-support.teamdev.com/) wh
 
 ### Warning
 
-I have made also a web-browser entirely in JavaFX , [press here](https://github.com/goxr3plus/JavaFX-Web-Browser)
+I have made also a web-browser entirely in JavaFX , [press here](https://github.com/goxr3plus/JavaFX-Web-Browser).
 
 ## What is this repo ?
 
